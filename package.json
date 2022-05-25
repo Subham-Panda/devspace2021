@@ -2,7 +2,7 @@
   "name": "devspace2021-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://subham-panda.github.io/devspace21",
+  "homepage": "http://subham-panda.github.io/devspace2021",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
