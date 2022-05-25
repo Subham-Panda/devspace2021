@@ -1,0 +1,18 @@
+.first-faq-column {
+	border-right: 2px solid #FFFAFF !important;
+}
+
+.faq-main-container {
+	height: 45rem;
+}
+
+@media only screen and (max-width: 1088px) {
+    .first-faq-column {
+		border-right: 0px !important;
+	}
+
+	.faq-main-container {
+		height: 65rem;
+	}
+
+}
