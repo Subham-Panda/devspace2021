@@ -31,7 +31,7 @@ const OnlineLearningPartners = React.lazy(() => import('./sections/OnlineLearnin
 
 const App = () => (
     <Suspense fallback={<Loading />}>
-        <BrowserRouter>
+        <BrowserRouter basename='/'>
             <Switch>
                 <Route path="/" exact>
                     <Navigation />
